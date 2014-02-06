@@ -89,7 +89,7 @@ public class DonorUpdateform extends javax.swing.JFrame {
         tUsername.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
 
         lUSername.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
-        lUSername.setText("User Name");
+        lUSername.setText("nadhgvdw");
 
         tName.setEditable(false);
         tName.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
