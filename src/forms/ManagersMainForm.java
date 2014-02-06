@@ -133,7 +133,7 @@ public class ManagersMainForm extends javax.swing.JFrame {
         );
 
         bGetDonorInfo.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
-        bGetDonorInfo.setText("Get Info");
+        bGetDonorInfo.setText("get info");
         bGetDonorInfo.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 bGetDonorInfoActionPerformed(evt);
